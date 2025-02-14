@@ -87,16 +87,20 @@ Adhira, Brianne, Ernest, Jamal, Megan, Nina, Rick, Shareefah, Sara, Tessa
 
 
 
-## PART 2
+# PART 2
 
-Cyclistic datasets
-By now, you’re getting ready to take the next steps with your Course 2 end-of-course project. To work with the Cyclistic project data, you will need to locate the appropriate public datasets and upload the zip code spreadsheet that your colleague shared into your BigQuery project space. This reading will guide you through that process. Once you have finished this reading, you will be ready for the upcoming activities and to deliver key insights to your stakeholders. 
+## Cyclistic datasets
+By now, you’re getting ready to take the next steps with your Course 2 end-of-course project. 
+To work with the Cyclistic project data, you will need to locate the appropriate public datasets and upload the zip code spreadsheet that your colleague shared into your BigQuery project space. This reading will guide you through that process. Once you have finished this reading, you will be ready for the upcoming activities and to deliver key insights to your stakeholders. 
+
 For this end-of-course project, you will be using two public datasets, which exist in the public data available from the Explorer pane of your console: 
-•	NYC Citi Bike Trips, Census Bureau US Boundaries, 
-•	GSOD from the National Oceanic and Atmospheric Administration 
+*	NYC Citi Bike Trips, Census Bureau US Boundaries, 
+*	GSOD from the National Oceanic and Atmospheric Administration 
 Additionally, you will need to upload the zip code spreadsheet your colleague shared with you. 
-Upload to BigQuery
+
+## Upload to BigQuery
 First, navigate to your BigQuery console. Go to the BigQuery homepage or navigate to the console.  
+![Console](assests/images/BigQuery Console.png)
  
 Search and preview the public datasets using the search bar in the Explore pane of your console:
  
