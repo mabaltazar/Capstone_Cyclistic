@@ -96,7 +96,7 @@ To work with the Cyclistic project data, you will need to locate the appropriate
 For this end-of-course project, you will be using two public datasets, which exist in the public data available from the Explorer pane of your console: 
 *	[NYC Citi Bike Trips](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-citi-bike?inv=1&invt=Abpg1g&project=flawless-outlet-448210-n7), [Census Bureau US Boundaries](https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-geographic-boundaries?inv=1&invt=Abpg2Q&project=flawless-outlet-448210-n7), 
 *	[GSOD from the National Oceanic and Atmospheric Administration](https://console.cloud.google.com/marketplace/details/noaa-public/gsod?inv=1&invt=Abpg2Q&project=flawless-outlet-448210-n7)  
-Additionally, you will need to upload the zip code [spreadsheet](https://github.com/user-attachments/files/18792935/Cyclistic.NYC.zip.codes.-.list.csv)
+Additionally, you will need to upload the zip code [spreadsheet](https://raw.githubusercontent.com/mabaltazar/cyclistic-google-bi-project/refs/heads/main/Part%202/Cyclistic%20NYC%20zip%20codes%20-%20list.csv)
  your colleague shared with you. 
 
 ## Upload to BigQuery
