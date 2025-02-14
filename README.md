@@ -100,7 +100,7 @@ Additionally, you will need to upload the zip code spreadsheet your colleague sh
 
 ## Upload to BigQuery
 First, navigate to your BigQuery console. Go to the BigQuery homepage or navigate to the console.  
-![Console](assests/images/BigQuery Console.png)
+![BigQuery Console](https://github.com/user-attachments/assets/62bb3036-bd76-4c17-b32e-8b735a2251fe)
  
 Search and preview the public datasets using the search bar in the Explore pane of your console:
  
