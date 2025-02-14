@@ -94,9 +94,10 @@ By now, you’re getting ready to take the next steps with your Course 2 end-of-
 To work with the Cyclistic project data, you will need to locate the appropriate public datasets and upload the zip code spreadsheet that your colleague shared into your BigQuery project space. This reading will guide you through that process. Once you have finished this reading, you will be ready for the upcoming activities and to deliver key insights to your stakeholders. 
 
 For this end-of-course project, you will be using two public datasets, which exist in the public data available from the Explorer pane of your console: 
-*	NYC Citi Bike Trips, Census Bureau US Boundaries, 
-*	GSOD from the National Oceanic and Atmospheric Administration 
-Additionally, you will need to upload the zip code spreadsheet your colleague shared with you. 
+*	[NYC Citi Bike Trips](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-citi-bike?inv=1&invt=Abpg1g&project=flawless-outlet-448210-n7), [Census Bureau US Boundaries](https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-geographic-boundaries?inv=1&invt=Abpg2Q&project=flawless-outlet-448210-n7), 
+*	[GSOD from the National Oceanic and Atmospheric Administration](https://console.cloud.google.com/marketplace/details/noaa-public/gsod?inv=1&invt=Abpg2Q&project=flawless-outlet-448210-n7)  
+Additionally, you will need to upload the zip code [spreadsheet](https://github.com/user-attachments/files/18792935/Cyclistic.NYC.zip.codes.-.list.csv)
+ your colleague shared with you. 
 
 ## Upload to BigQuery
 First, navigate to your BigQuery console. Go to the BigQuery homepage or navigate to the console.  
