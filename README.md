@@ -91,7 +91,7 @@ Adhira, Brianne, Ernest, Jamal, Megan, Nina, Rick, Shareefah, Sara, Tessa
 
 ## Cyclistic datasets
 By now, you’re getting ready to take the next steps with your Course 2 end-of-course project. 
-To work with the Cyclistic project data, you will need to locate the appropriate public datasets and upload the zip code spreadsheet that your colleague shared into your BigQuery project space. This reading will guide you through that process. Once you have finished this reading, you will be ready for the upcoming activities and to deliver key insights to your stakeholders. 
+To work with the Cyclistic project data, you will need to locate the appropriate public datasets and upload the zip code spreadsheet that your colleague shared into your BigQuery project space.
 
 For this end-of-course project, you will be using two public datasets, which exist in the public data available from the Explorer pane of your console: 
 *	[NYC Citi Bike Trips](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-citi-bike?inv=1&invt=Abpg1g&project=flawless-outlet-448210-n7), [Census Bureau US Boundaries](https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-geographic-boundaries?inv=1&invt=Abpg2Q&project=flawless-outlet-448210-n7), 
@@ -146,4 +146,37 @@ For example, you realize that Earnest Cox, the VP of product development, is oft
 
 Additionally, one of your coworkers finds out you’re working on this project and shares a dataset they created recently for a project of their own that they think might help you: NYC zip codes. This dataset provides the zip codes for the different neighborhoods and boroughs in New York City; this will let you compare the bike data to the weather data more easily since you will be able to match the locations more accurately. It will also help you develop your map visualization later on.
 
-## PART 3
+# PART 3
+
+## Data Visualization!
+
+The product development team at Cyclistic has begun developing their business plan for next year. 
+In order to build a better Cyclistic, the team needs to understand how customers are currently using the bikes, how location and other factors impact demand, and what stations get the most traffic. The Cyclistic team has a few goals:
+
+* Understand what customers want, what makes a successful product, and how new stations might alleviate demand in different geographical areas
+* Understand how the current line of bikes are used
+* Apply customer usage insights to inform new station growth
+* Understand how different users (subscribers and non-subscribers) use the bikes
+
+You met with stakeholders to complete project planning documents, uploaded the necessary tables into your project space, and observed the team in action to better understand how they use the data. Now, it’s time to visualize the data to make a dashboard tool for Cyclistic’s team.
+
+## Step 1: Load your data into Tableau
+You can upload .csv or .xlsx file. Or, connect Tableau directly to Google Cloud. 
+![Connect Data Source](https://github.com/user-attachments/assets/3c72479c-ab9e-4e8f-a782-80e475f279c5)
+
+## Step2: Create a mockup
+Create a low-fidelity mockup to help you plan the components and layout of your dashboard. If necessary, create multiple mockups to brainstorm the best way to build your dashboard.
+![mockup 1](https://github.com/user-attachments/assets/351ed0af-b738-41b2-b67c-8bb72f387242)
+![mockup 1_2](https://github.com/user-attachments/assets/cfde58a0-ce1c-43ec-9647-abeaa226cdef)
+
+## Step 3: Creating Charts
+Create the charts that you will include in your visualization.
+![Chart 1](https://github.com/user-attachments/assets/11d31cab-b14c-469d-b30d-e21fe098a737)
+![Chart 2](https://github.com/user-attachments/assets/1d897e10-17c2-487c-add1-a58cb12f41ff)
+![Chart 3](https://github.com/user-attachments/assets/dd64808f-8ea4-43e9-990e-96214ed12023)
+
+## Step 4: Organize the dashboard
+Organize the charts you made into a dashboard. Include any additional visual elements such as filters, captions, titles, links, or tables.
+![Organizing Chart](https://github.com/user-attachments/assets/c5e43777-0b3a-4efa-840d-596f307e7328)
+
+
