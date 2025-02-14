@@ -149,7 +149,6 @@ Additionally, one of your coworkers finds out you’re working on this project a
 # PART 3
 
 ## Data Visualization!
-[Click here to check the final dashboard!](https://public.tableau.com/app/profile/mark.anthony.baltazar/viz/CyclisticGoogleBIProject/Story1)
 
 The product development team at Cyclistic has begun developing their business plan for next year. 
 In order to build a better Cyclistic, the team needs to understand how customers are currently using the bikes, how location and other factors impact demand, and what stations get the most traffic. The Cyclistic team has a few goals:
@@ -183,5 +182,9 @@ Organize the charts you made into a dashboard. Include any additional visual ele
 ## Step 5: Complete the Project Executive Summary
 Complete the executive summary document you started in the previous course’s end-of-course project. 
 
+[Cyclistic_Project_Executive_Summary.pdf](https://github.com/user-attachments/files/18794614/Cyclistic_Project_Executive_Summary.pdf)
+
+## Final Dashboard
+[Click here to check the final dashboard!](https://public.tableau.com/app/profile/mark.anthony.baltazar/viz/CyclisticGoogleBIProject/Story1)
 
 
