@@ -16,7 +16,7 @@ These outline the business goals, KPIs, timeline, and scope for the analysis.
 🧪 Part 2: Data Exploration with BigQuery
 - Queried and cleaned raw rider datasets using SQL in BigQuery
 - Explored key business questions around ride trends, member types, and seasonal behavior
-- Performed analysis on rider demographics, trip duration, and growth trends
+- Created two target tables: a table that capture the entire year and a table that focuses on summer trends
 
 📊 Part 3: Data Visualization with Tableau
 - Built an interactive Tableau dashboard highlighting insights on rider behavior, usage patterns, and seasonal trends
@@ -26,3 +26,4 @@ These outline the business goals, KPIs, timeline, and scope for the analysis.
 - Casual riders spike in summer months, while member usage remains consistent
 - Members take longer but more frequent rides, suggesting potential upsell opportunities
 - Visual segmentation revealed neighborhoods with strong growth potential
+
