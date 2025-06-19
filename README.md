@@ -1,4 +1,4 @@
-# Cyclistic Business Intelligence Project
+# Business Intelligence Project: Cyclistic
 ### This is project is from the Google Business Intelligence Certificate.
 
 These project consists of 3 parts.  
