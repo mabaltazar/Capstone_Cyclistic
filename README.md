@@ -5,7 +5,11 @@ Welcome to my end-of-course project for the Google Business Intelligence Certifi
 - Objective: Analyze rider behavior and uncover insights to support Cyclistic’s marketing and customer success strategies.
 - Tools Used: BigQuery, Tableau, SQL, Excel, Google Docs
 - Deliverables: BI documentation, SQL-based data exploration, and interactive data visualization
-- Datasets: [NYC Bike Trips]([https://console.cloud.google.com/](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-citi-bike?inv=1&invt=Ab0lbg&project=flawless-outlet-448210-n7)), [Census Bureau US Boundaries](https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-geographic-boundaries?inv=1&invt=Ab0lbw&project=flawless-outlet-448210-n7), [GSOD](https://console.cloud.google.com/marketplace/details/noaa-public/gsod?inv=1&invt=Ab0lcA&project=flawless-outlet-448210-n7), [Zipcode Spreadsheet](https://docs.google.com/spreadsheets/d/1IIbH-GM3tdmM5tl56PHhqI7xxCzqaBCU0ylItxk_sy0/template/preview#gid=806359255)
+- Datasets:
+[NYC Bike Trips](https://console.cloud.google.com/marketplace/details/city-of-new-york/nyc-citi-bike?inv=1&invt=Ab0lbg&project=flawless-outlet-448210-n7), 
+[Census Bureau US Boundaries](https://console.cloud.google.com/marketplace/product/united-states-census-bureau/us-geographic-boundaries?inv=1&invt=Ab0lbw&project=flawless-outlet-448210-n7), 
+[GSOD](https://console.cloud.google.com/marketplace/details/noaa-public/gsod?inv=1&invt=Ab0lcA&project=flawless-outlet-448210-n7), 
+[Zipcode Spreadsheet](https://docs.google.com/spreadsheets/d/1IIbH-GM3tdmM5tl56PHhqI7xxCzqaBCU0ylItxk_sy0/template/preview#gid=806359255)
 
 🧾 Part 1: Business Documentation
 Created three key documents based on internal meeting notes:
