@@ -21,6 +21,7 @@ These outline the business goals, KPIs, timeline, and scope for the analysis.
 📊 Part 3: Data Visualization with Tableau
 - Built an interactive Tableau dashboard highlighting insights on rider behavior, usage patterns, and seasonal trends
 - Compared casual vs. member riders to inform marketing and retention strategies
+- [View live dashboard here --> Cyclistic](https://public.tableau.com/app/profile/mark.anthony.baltazar/viz/CyclisticGoogleBIProject/Story1)  
 
 🔍 Key Insights
 - Casual riders spike in summer months, while member usage remains consistent
