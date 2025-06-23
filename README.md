@@ -12,8 +12,8 @@ Welcome to my end-of-course project for the Google Business Intelligence Certifi
 [Zipcode Spreadsheet](https://docs.google.com/spreadsheets/d/1IIbH-GM3tdmM5tl56PHhqI7xxCzqaBCU0ylItxk_sy0/template/preview#gid=806359255)
 - Capstone Documents:
 [Part 1](Part%201/Capstone_Project_Part_1.pdf),
-[Part 2](Part%201/Capstone_Project_Part_2.pdf),
-[Part 3](Part%201/Capstone_Project_Part_3.pdf)
+[Part 2](Part%202/Capstone_Project_Part_2.pdf),
+[Part 3](Part%203/Capstone_Project_Part_3.pdf)
 
 🧾 Part 1: Business Documentation
 Created three key documents based on internal meeting notes:
