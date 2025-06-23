@@ -11,7 +11,7 @@ Welcome to my end-of-course project for the Google Business Intelligence Certifi
 [GSOD](https://console.cloud.google.com/marketplace/details/noaa-public/gsod?inv=1&invt=Ab0lcA&project=flawless-outlet-448210-n7), 
 [Zipcode Spreadsheet](https://docs.google.com/spreadsheets/d/1IIbH-GM3tdmM5tl56PHhqI7xxCzqaBCU0ylItxk_sy0/template/preview#gid=806359255)
 - Capstone Documents: [Part 1](Part%201/Capstone_Project_Part_1.pdf)  
-  <a href="Capstone_Documents_Part1.pdf" target="_blank">Capstone Documents: Part 1</a>
+  <a href="Part%201/Capstone_Project_Part_1.pdf" target="_blank">Capstone Documents: Part 1</a>
 🧾 Part 1: Business Documentation
 Created three key documents based on internal meeting notes:
 - Stakeholder Requirements Document
